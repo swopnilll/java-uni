@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class ErrorCode {
+public class ErrorCode {
+    public static void main(String[] args) {
+
+
+
+    }
 }
